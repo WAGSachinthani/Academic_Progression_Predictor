@@ -12,6 +12,6 @@ The Academic Progression Predictor is a Python script that helps students predic
 - Provide clear insights into progression outcomes, including progression, module trailers, module retrievers, and exclusion.
 - Support customizable credit thresholds for different academic institutions or programs.
 
-Technologies 🛠️
+## Technologies 🛠️
 Python: Primary programming language used for development.
 Command-line interface (CLI): Used for interacting with the Python script and inputting credit data.
